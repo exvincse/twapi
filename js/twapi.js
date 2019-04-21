@@ -192,7 +192,7 @@ var go=(response,page)=>{
                         </a>
                         <div>
                         <p class="view">觀看人數:${response.streams[i].viewers}</p>
-                        <img class="parner" src=images/parner.jpg>
+                        <img class="parner" src="images/parner.jpg">
                         <div class="master-name">${response.streams[i].channel.name}</div>
                        </div>
                        </div>`;
