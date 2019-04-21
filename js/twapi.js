@@ -19,7 +19,7 @@ let testname=null;
             if(response.top[i].game.name!=="Trash")
             {  
                str+=`<li>
-                       <div class=box>
+                       <div class="box">
                        <a href="#" title="${response.top[i].game.name}">
                        <div class='box2'style=background-image:url(${response.top[i].game.box.large})></div>
                        <div class='gamename'>${response.top[i].game.name}</div>

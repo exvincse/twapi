@@ -1,5 +1,5 @@
 @import 'cssreset.css';
-.box,.moregame
+.box
 {
     height:210px;
     width: 130px;
@@ -12,7 +12,7 @@
 	height: 75%;
 	margin-bottom: 5px;
 }
-.box a,.moregame a{
+.box a{
 	display: block;
     width: 100%;
 	height: 100%;
